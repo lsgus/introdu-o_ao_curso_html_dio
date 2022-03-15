@@ -1,0 +1,54 @@
+body {    
+    background-color: #dcdcdc;
+    max-width: 900px;
+    margin: auto;
+}
+
+.perfil{
+  float: inline-end;
+  float: right;
+  border-radius: 25px;
+  max-width: 200px;
+  
+}
+
+#title{
+
+  background-color: #084d64;
+  color: #000000;
+  padding: 40px;
+  
+  
+}
+
+.post{
+  margin: auto;
+  border: solid;
+  border-radius: 2%;
+}
+
+.post_content {
+  margin-top: 5px;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+  background-color: #fdfd57;
+}
+
+ul {
+  list-style-type:  "\2709";
+}
+
+li a{
+  color: #000000;
+  text-decoration: none;
+}
+
+.footer_address{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  padding: 10px;
+}
+
